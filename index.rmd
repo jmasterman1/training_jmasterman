@@ -7,3 +7,10 @@ output: html_document
 
 Hello
 
+The modules I've gotten through: 
+
+- [Session 8: Data Cleaning](./Data-Cleaning_Session-8.html)
+
+- [Training](./training_jmasterman.html)
+
+- [intro to R](./intro-to-r-markdown.html)
