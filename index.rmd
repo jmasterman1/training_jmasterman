@@ -5,7 +5,9 @@ date: "3/1/2021"
 output: html_document
 ---
 
-Hello
+# Workshop: Reproducible Research Techniques for Synthesis
+
+_February 24-25, March 1-3, 2021_
 
 The modules I've gotten through: 
 
@@ -13,4 +15,4 @@ The modules I've gotten through:
 
 - [Training](./training_jmasterman.html)
 
-- [intro to R](./intro-to-r-markdown.html)
+- [Introduction to R](./intro-to-r-markdown.html)
